@@ -33,10 +33,6 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,mui,html,css,js,vscode,phpstorm,postman,pycharm,github,tailwind,git,gitlab" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,nextjs,mysql,sql,py,qt" /><br>
-</div> -->
 
 <!-- Tools -->
 <p align="center">
@@ -45,7 +41,7 @@
 
 <!-- Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,mui,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,mui,expres,nextjs" />
 </p>
 
 <!-- Languages -->

@@ -36,17 +36,17 @@
 
 <!-- Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,pycharm,github,tailwind,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,pycharm,github,git,gitlab" />
 </p>
 
 <!-- Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,mui,expres,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,nextjs" />
 </p>
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb,mysql,sql,py,qt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb,mysql,py,qt" />
 </p>
 
 

@@ -8,11 +8,24 @@
 
 <br/>
 
-🌱 Currently, I'm diving deep into JavaScript, PHP, React, and Laravel.
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Laravel, Node JS**
 
-💼 Seeking collaboration on website development projects spanning various subjects, with the goal of delivering high-quality, professional websites. As an aspiring web developer, I'm keen on mastering the art of creating visually appealing, user-friendly, and optimized websites for exceptional user experiences. Let's team up to craft outstanding websites!
+💬 Ask me about **Node.js, React, Python**
 
-📧 You can reach me at: ahmedelmarrouni1@gmail.com
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:ahmedelmarrouni1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-el-marrouni-0484a2272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 
 

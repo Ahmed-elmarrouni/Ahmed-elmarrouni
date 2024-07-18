@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+El+marrouni!;" />
 </h1>
 
-<h3 align="center">👀 A passionate full-stack developer from Morocco <img src="https://github.com/user-attachments/assets/fdc924da-eda6-424a-92a8-25e40661264e" alt="Moroccan flag" style="width: 20px; height: 20px; vertical-align: middle;"></h3>
+<h3 align="center">👀 A passionate full-stack developer from Morocco <img src="https://github.com/user-attachments/assets/7d3ae4f6-fd96-4728-b36e-43e4ff9f5698" alt="Moroccan flag" style="width: 20px; height: 20px; vertical-align: middle;"></h3>
+
+
 </h3>
 
 <br/>

@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+El+marrouni!;" />
 </h1>
 
-<h3 align="center">👀 A passionate full-stack developer from Morocco</h3>
+<h3 align="center">👀 A passionate full-stack developer from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -58,9 +58,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=Ahmed-elmarrouni&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Ahmed Elmarrouni's top languages" />
+</div> -->
+<div align="center" style="max-width: 100%;">
+  <a href="https://github.com/Ahmed-elmarrouni">
+    <img style="max-width: 100%;" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-elmarrouni&bg_color=transparent&color=00c3ff&line=00c3ff&point=ffffff&area=true&area_color=ffffff&hide_border=true">
+</a>
+
 </div>
 
 <br/><br/>

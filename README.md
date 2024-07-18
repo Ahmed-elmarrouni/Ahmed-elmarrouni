@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+El+marrouni!;" />
 </h1>
 
-<h3 align="center">👀 A passionate full-stack developer from Morocco 🇲🇦</h3>
+<h3 align="center">👀 A passionate full-stack developer from Morocco ![image](https://github.com/user-attachments/assets/fdc924da-eda6-424a-92a8-25e40661264e)
+</h3>
 
 <br/>
 

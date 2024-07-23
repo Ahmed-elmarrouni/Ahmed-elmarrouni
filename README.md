@@ -65,6 +65,9 @@
   <img width=40%  src="https://github-readme-stats.vercel.app/api?username=Ahmed-elmarrouni&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Ahmed Elmarrouni's top languages" />
 </div>
+
+<hr/>
+
 <div align="center" style="max-width: 100%;">
   <a href="https://github.com/Ahmed-elmarrouni">
     <img style="max-width: 100%;" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-elmarrouni&bg_color=transparent&color=00c3ff&line=00c3ff&point=ffffff&area=true&area_color=ffffff&hide_border=true">

@@ -20,16 +20,6 @@
   </a>
 </p>
 
-<pre align="justify" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px; text-align: left;">
-<code>
-🚀 CURRENT_MISSION : [ "AI & Data Engineering", "Full Stack Dev" ]
-🌱 LEARNING_PATH   : [ "Deep Learning", "Advanced Go Patterns" ]
-🛠️ CORE_STACK      : [ "Go", "Laravel", "React", "TypeScript" ]
-📍 COORDINATES     : Morocco
-👥 SECOND_BASE     : <a href="https://github.com/elmarrouni-ahmed">@elmarrouni-ahmed</a>
-</code>
-</pre>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -50,6 +40,7 @@
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">👾 DEFENSE SYSTEMS</h2>
 <p align="center">Active defense matrix enabled. Targets acquired.</p>

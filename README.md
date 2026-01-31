@@ -20,7 +20,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ THE ARSENAL ⚡</h2>
 
 <p align="center">

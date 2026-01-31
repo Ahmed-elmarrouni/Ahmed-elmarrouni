@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,0d1117&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Pilot%20%7C%20Morocco&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Morocco&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=24D0FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+Traveler!+👋;I+Code+The+Future.;Laravel+%7C+Node.js+%7C+React" alt="Typing SVG" />
@@ -43,11 +43,14 @@
 
 <br/>
 
-<h2 align="center">📊 FLIGHT DATA</h2>
-
+<h2 align="center">🏆 MISSION ACHIEVEMENTS</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-elmarrouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-elmarrouni&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
+  </a>
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
@@ -66,6 +69,6 @@
   <img src="game.gif" width="100%" style="border-radius: 10px; border: 2px solid #7b2cbf;" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

@@ -1,83 +1,71 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-elmarrouni.Ahmed-elmarrouni" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+El+marrouni!;" />
-</h1>
-
-<h3 align="center">👀 A passionate full-stack developer from Morocco <img src="https://github.com/user-attachments/assets/7d3ae4f6-fd96-4728-b36e-43e4ff9f5698" alt="Moroccan flag" style="width: 20px; height: 20px; vertical-align: middle;"></h3>
-
-
-</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I’m currently working on various **projects for my studies**.
- 
- 🌱 I’m currently learning **Laravel, Node JS**
 
-💬 Ask me about **Node.js, React, Python**
-<br/>
- </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,0d1117&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Pilot%20%7C%20Morocco&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
- <div align="center"> 
-  <a href="mailto:ahmedelmarrouni1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-el-marrouni-0484a2272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
- 
- <!--- Tools and languages  --->
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
-<!-- Tools -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,pycharm,github,git,gitlab" />
-</p>
-
-<!-- Frameworks -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,nextjs" />
-</p>
-
-<!-- Languages -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,py,qt" />
-</p>
-
-
-
-<br/>
-
-<hr/>
-<!--- STATISTICS --->
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=39.5%  src="https://github-readme-stats.vercel.app/api?username=Ahmed-elmarrouni&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Ahmed Elmarrouni's top languages" />
-</div>
-
-<br>
-<hr/>
-
-<div align="center" style="max-width: 100%;">
-  <a href="https://github.com/Ahmed-elmarrouni">
-    <img style="max-width: 100%;" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-elmarrouni&bg_color=transparent&color=00c3ff&line=00c3ff&point=ffffff&area=true&area_color=ffffff&hide_border=true">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=24D0FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+Traveler!+👋;I+Code+The+Future.;Laravel+%7C+Node.js+%7C+React" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<p>
+  <a href="mailto:ahmedelmarrouni1@gmail.com">
+    <img src="https://img.shields.io/badge/SIGNAL-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-el-marrouni-0484a2272/" target="_blank">
+    <img src="https://img.shields.io/badge/LINK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://github.com/elmarrouni-ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/SECURE_LINK-SECOND_ACCOUNT-7b2cbf?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<pre align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px;">
+<code>
+🚀 CURRENT_MISSION:  [ "Studying", "Building Projects" ]
+🌱 LEARNING_PATH:    [ "Laravel", "Node JS" ]
+💬 COMMUNICATION:    [ "Node.js", "React", "Python" ]
+📍 COORDINATES:      Morocco
+👥 SECOND_BASE:      <a href="https://github.com/elmarrouni-ahmed">@elmarrouni-ahmed</a>
+</code>
+</pre>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡ THE ARSENAL ⚡</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,pycharm,github,git,gitlab&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,nextjs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,py,qt&theme=dark" />
+</p>
+
+<br/>
+
+<h2 align="center">📊 FLIGHT DATA</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-elmarrouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
-<br/><br/>
-<br/><br/>
+<br/>
 
-![My GitHub Game](game.gif)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-elmarrouni&bg_color=0d1117&color=7b2cbf&line=24D0FF&point=ffffff&area=true&hide_border=true&area_color=24D0FF" width="100%" />
+</div>
 
+<br/>
+
+<h2 align="center">👾 DEFENSE SYSTEMS</h2>
+<p align="center">Active defense matrix enabled. Targets acquired.</p>
+
+<div align="center">
+  <img src="game.gif" width="100%" style="border-radius: 10px; border: 2px solid #7b2cbf;" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>

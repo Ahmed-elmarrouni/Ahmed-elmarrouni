@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Morocco&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=24D0FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+Traveler!+👋;I+Code+The+Future.;Laravel+%7C+Node.js+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=24D0FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+Traveler!+👋;I+Build+Scalable+Apps.;Go+%7C+Laravel+%7C+React+%7C+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,13 +20,13 @@
   </a>
 </p>
 
-<pre align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px;">
+<pre align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px; text-align: left;">
 <code>
-🚀 CURRENT_MISSION:  [ "Studying", "Building Projects" ]
-🌱 LEARNING_PATH:    [ "Laravel", "Node JS" ]
-💬 COMMUNICATION:    [ "Node.js", "React", "Python" ]
-📍 COORDINATES:      Morocco
-👥 SECOND_BASE:      <a href="https://github.com/elmarrouni-ahmed">@elmarrouni-ahmed</a>
+🚀 CURRENT_MISSION : [ "AI & Data Engineering", "Full Stack Dev" ]
+🌱 LEARNING_PATH   : [ "Deep Learning", "Advanced Go Patterns" ]
+🛠️ CORE_STACK      : [ "Go", "Laravel", "React", "TypeScript" ]
+📍 COORDINATES     : Morocco
+👥 SECOND_BASE     : <a href="https://github.com/elmarrouni-ahmed">@elmarrouni-ahmed</a>
 </code>
 </pre>
 
@@ -36,9 +36,11 @@
 <h2 align="center">⚡ THE ARSENAL ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,pycharm,github,git,gitlab&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,nextjs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,py,qt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,php,python&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,mysql,postgres,mongodb,git&theme=dark" />
 </p>
 
 <br/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf&height=250&section=header&text=Ahmed%20El%20Marrouni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Morocco&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=24D0FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+Traveler!+👋;I+Build+Scalable+Apps.;Go+%7C+Laravel+%7C+React+%7C+AI" alt="Typing SVG" />
@@ -12,7 +12,7 @@
   <a href="mailto:ahmedelmarrouni1@gmail.com">
     <img src="https://img.shields.io/badge/SIGNAL-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-el-marrouni-0484a2272/" target="_blank">
+  <a href="https://www.linkedin.com/in/elmarrouni/" target="_blank">
     <img src="https://img.shields.io/badge/LINK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://github.com/elmarrouni-ahmed" target="_blank">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<pre align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px; text-align: left;">
+<pre align="justify" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #c9d1d9; padding: 16px; text-align: left;">
 <code>
 🚀 CURRENT_MISSION : [ "AI & Data Engineering", "Full Stack Dev" ]
 🌱 LEARNING_PATH   : [ "Deep Learning", "Advanced Go Patterns" ]
@@ -42,19 +42,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,mysql,postgres,mongodb,git&theme=dark" />
 </p>
-
-<br/>
-
-<h2 align="center">🏆 MISSION ACHIEVEMENTS</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-elmarrouni&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-elmarrouni&hide=HTML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
 
 <br/>
 

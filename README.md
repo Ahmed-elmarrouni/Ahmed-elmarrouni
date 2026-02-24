@@ -39,11 +39,4 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">👾 DEFENSE SYSTEMS</h2>
-<p align="center">Active defense matrix enabled. Targets acquired.</p>
-
-<div align="center">
-  <img src="game.gif" width="100%" style="border-radius: 10px; border: 2px solid #7b2cbf;" />
-</div>
-
 </div>

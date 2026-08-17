@@ -32,11 +32,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-elmarrouni&bg_color=0d1117&color=7b2cbf&line=24D0FF&point=ffffff&area=true&hide_border=true&area_color=24D0FF" width="100%" />
-</div>
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
